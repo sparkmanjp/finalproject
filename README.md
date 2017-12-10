@@ -34,5 +34,8 @@ is forced to slow down.
 
  Here are two plots, the first of which shows the plot of our data with the best fit line in a linear scale, and the second 
  of which is the same but log-scaled. 
- ![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')   
+ 
+ :---:
+ ![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')  
+:---: 
  ![FinalPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')

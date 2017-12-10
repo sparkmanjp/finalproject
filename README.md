@@ -7,6 +7,16 @@ This is the final project for Intro to Computer Programming fall 2017. The group
   
 ## Part 2: **Obtaining the error in tumor cell count**
 ---
+In the second part of our analysis, we created a concise, graphical representation of tumor growth as a function of time. The matlab script for this section adds up the total number of tumor cells recorded for each day. We make the assumption that each sum has an uncertainty equal to the total number of cells at the edge of the tumor. Therefore, the script must also identify the boundaries in the data and sum up these values. This was accomplished using bwboundaries(). 
+
+Using these values, we created two graphs with the errorbar() function. The first graph has default scaling, and the second graph has a log scaled y-axis. We can use these graphs to analyze our hypothesis that the data adheres to the Gompertzian growth model.
+
+
+
+
+![ErrorBarPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_2/TumorGrowthWithErrorBars.png)
+
+![ErrorBarPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_2/LogTumorGrowthWithErrorBars.png)
 
 ## Part 3: The Mathematical Model of Tumor Growth
 --- 

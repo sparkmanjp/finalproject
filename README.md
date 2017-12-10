@@ -32,10 +32,9 @@ but the best fit available. Alternatively, log-scaling the y-axis will give a pl
 gompertzian growth at work. At first, the tumor grows very quickly, but at space inside the rat's brain is finite, the growth
 is forced to slow down.
 
- Here are two plots, the first of which shows the plot of our data with the best fit line in a linear scale...
+ Here are two plots, the first of which shows the plot of our data with the best fit line in a linear scale, and the second 
+ of which is the same but log-scaled. 
  
  ![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')   
  
- ...the second of which is the same but log-scaled.
- 
- ![FinalPlotLog]: (https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')
+ ![FinalPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')

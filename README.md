@@ -1,6 +1,6 @@
 # Exam Final: Semester Project 
 
-This is the final project for Matthew Dean (Part 1), Kate Fisher (Part 2), and Jack Sparkman (Part 3).  
+This is the final project for Intro to Computer Programming fall 2017. The group members for this project are Matthew Dean (Part 1), Kate Fisher (Part 2), and Jack Sparkman (Part 3).  
 
 ## Part 1: **Data Reduction and Visualization**
 ---

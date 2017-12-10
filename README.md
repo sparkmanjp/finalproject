@@ -40,4 +40,4 @@ is forced to slow down.
  ![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')  
  ![FinalPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')
  
- *Note: These parts are meant to be indepedent from one another, so the final plots in part 3 are missing the error bars found in part 2. For a detailed explination and visualization of error in the data, see part 2.*
+ ###### *Note: These parts are meant to be indepedent from one another, so the final plots in part 3 are missing the error bars found in part 2. For a detailed explination and visualization of error in the data, see part 2.*

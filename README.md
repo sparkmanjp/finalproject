@@ -29,7 +29,7 @@ lamda = 8.0729,   c = 0.1102,    sigma = 4.0743
 
 Inputing these values into the physical model and plotting against time grants a not only a very good fit to the data, 
 but the best fit available. Alternatively, log-scaling the y-axis will give a plot that allows for easy visualization of the 
-gompertzian growth at work. At first, the tumor grows very quickly, but at space inside the rat's brain is finite, the growth
+gompertzian growth at work. At first, the tumor grows very quickly, but as space inside the rat's brain is finite, the growth
 is forced to slow down.
 
  Here are two plots, the first of which shows the plot of our data with the best fit line in a linear scale, and the second 
@@ -39,3 +39,5 @@ is forced to slow down.
  
  ![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')  
  ![FinalPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')
+ 
+ *Note: These parts are meant to be indepedent from one another, so the final plots in part 3 are missing the error bars found in part 2. For a detailed explination and visualization of error in the data, see part 2.*

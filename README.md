@@ -1,14 +1,15 @@
 #Exam Final: Semester Project 
+
 This is the final project for Matthew Dean (Part 1), Kate Fisher (Part 2), and Jack Sparkman (Part 3).  
 
 ##Part 1: **Data Reduction and Visualization**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---
   
 ##Part 2: **Obtaining the error in tumor cell count**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+---
 
-##Part 3: **The Mathematical Model of Tumor Growth**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+##Part 3: The Mathematical Model of Tumor Growth
+--- 
 In this section, we will attempt to find a line of best fit for the data we have been given. Our intial hypothesis is that
 tumor growth will follow a Gompertzian growth pattern. Therefore, our goal is to find the unknown parameters of the 
 physical model that will create a line of best fit for our experimental data.  
@@ -34,4 +35,5 @@ is forced to slow down.
  Here are two plots, the first of which shows the plot of our data with the best fit line in a linear scale, and the second 
  of which is the same but log-scaled. 
  
- 
+ ![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')
+ ![FinalPlotLog]: (https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')

@@ -14,9 +14,9 @@ Using these values, we created two graphs with the errorbar() function. The firs
 
 
 
-![ErrorBarPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_2/TumorGrowthWithErrorBars.png)
+![ErrorBarPlot](https://github.com/sparkmanjp/finalproject/blob/master/src/TumorGrowthWithErrorBars.png)
 
-![ErrorBarPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_2/LogTumorGrowthWithErrorBars.png)
+![ErrorBarPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/src/LogTumorGrowthWithErrorBars.png)
 
 ## Part 3: The Mathematical Model of Tumor Growth
 --- 
@@ -45,8 +45,8 @@ is forced to slow down.
  Here are two plots, the first of which shows the plot of our data with the best fit line in a linear scale, and the second 
  of which is the same but log-scaled. 
  
-![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png 'Linearly scaled plot')  
-![FinalPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinalLog.png 'Log scaled plot')
+![FinalPlot](https://github.com/sparkmanjp/finalproject/blob/master/src/PlotFinal.png 'Linearly scaled plot')  
+![FinalPlotLog](https://github.com/sparkmanjp/finalproject/blob/master/src/PlotFinalLog.png 'Log scaled plot')
  
  
  ###### *Note: These parts are meant to be indepedent from one another, so the final plots in part 3 are missing the error bars found in part 2. For a detailed explination and visualization of error in the data, see part 2.*

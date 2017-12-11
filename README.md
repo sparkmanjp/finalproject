@@ -46,7 +46,7 @@ is forced to slow down.
  of which is the same but log-scaled. 
  
 <figure>
-<img src="https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png" alt="Linearly scaled plot" align= middle width="500"/>
+<img src="https://github.com/sparkmanjp/finalproject/blob/master/Part_3/PlotFinal.png" alt="Linearly scaled plot" align= middle width="900"/>
 </figure>
  
 <figure>

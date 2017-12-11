@@ -4,7 +4,8 @@ load('cells.mat')
 numCellInit = 100000;
 logNumCellInit = log(numCellInit);
 Time = [0,10,12,14,16,18,20,22];
-ndata = length(Time);
+temp = size(Time);
+ndata = temp(2);
 
 NumCell = zeros(ndata, 1);
 LogNumCell = zeros(ndata, 1);

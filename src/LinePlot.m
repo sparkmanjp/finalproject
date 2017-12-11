@@ -1,6 +1,7 @@
 
 Time = [0,10,12,14,16,18,20,22];
-ntime = length(Time); %total number of time points
+temp2 = size(Time);
+ntime = temp2(2); %total number of time points
 CellNum = zeros(ntime, 1);
 CellNum(1) = 100000; %time 0, the first in the time vector
 load('cells.mat')

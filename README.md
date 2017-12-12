@@ -7,7 +7,7 @@ This is the final project for Intro to Computer Programming fall 2017. The group
 In the first part of the analysis, we created 16 x,y heatmaps at each value for time using matlab's built-in function imagesc(). In total, there are seven values for time (t = 10,12,14,16,18,20,22), so a new plot containing the subplot slices was created for every value of t. The seven plots that are generated show the progression of the brain tumor growth starting from 10 days and continuing to day 22.
 
 This is an example of what the plot on day 16 looks like:
-![Day16Plot](https://github.com/sparkmanjp/finalproject/results/PlotAndTime_at_4.png)
+![Day16Plot](https://github.com/sparkmanjp/finalproject/blob/master/results/PlotAndTime_at_4.png)
   
 ## Part 2: **Obtaining the error in tumor cell count**
 ---

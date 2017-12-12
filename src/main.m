@@ -2,7 +2,7 @@ load('cells.mat');
 
 
 %Make Subplots
-%name of function for subplots
+genSubplot
 
 %make error bars
 ErrorBarPlot
